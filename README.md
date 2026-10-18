@@ -42,7 +42,3 @@ Indhusri
 B.Tech Artificial Intelligence
 """
 
-with open("README.md", "w", encoding="utf-8") as file:
-    file.write(readme_content)
-
-print("README.md created successfully!")
